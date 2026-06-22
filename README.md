@@ -33,5 +33,5 @@ This project implements a clean, structured, end-to-end exploratory data science
 ---
 
 ## 📁 Repository File Structure
-* `Iris_Exploration_Notebook.ipynb` - The primary Jupyter Notebook containing the comment-supported Python code, library configurations, and data plots.
+* `Task_1.ipynb` - The primary Jupyter Notebook containing the comment-supported Python code, library configurations, and data plots.
 * `README.md` - Executive brief summarizing project parameters.
