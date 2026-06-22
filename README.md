@@ -5,7 +5,7 @@ The primary objective of this project is to perform an exploratory and baseline 
 
 ---
 
-## 🛠️ Your Approach & Methodology
+## 🛠️ Approach & Methodology
 
 This project implements a clean, structured, end-to-end exploratory data science workflow:
 
